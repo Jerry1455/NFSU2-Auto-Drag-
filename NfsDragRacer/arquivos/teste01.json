@@ -1,0 +1,112 @@
+[
+    {
+        "tempo": 0.2682955265045166,
+        "tipo": "keyDown",
+        "tecla": "Key.enter"
+    },
+    {
+        "tempo": 0.356564998626709,
+        "tipo": "keyUp",
+        "tecla": "Key.enter"
+    },
+    {
+        "tempo": 0.7161087989807129,
+        "tipo": "keyDown",
+        "tecla": "Key.left"
+    },
+    {
+        "tempo": 0.820828914642334,
+        "tipo": "keyUp",
+        "tecla": "Key.left"
+    },
+    {
+        "tempo": 1.012317419052124,
+        "tipo": "keyDown",
+        "tecla": "Key.enter"
+    },
+    {
+        "tempo": 1.0921049118041992,
+        "tipo": "keyUp",
+        "tecla": "Key.enter"
+    },
+    {
+        "tempo": 2.6290228366851807,
+        "tipo": "keyDown",
+        "tecla": "w"
+    },
+    {
+        "tempo": 5.612602472305298,
+        "tipo": "keyDown",
+        "tecla": "o"
+    },
+    {
+        "tempo": 5.676432132720947,
+        "tipo": "keyUp",
+        "tecla": "o"
+    },
+    {
+        "tempo": 6.172611474990845,
+        "tipo": "keyDown",
+        "tecla": "i"
+    },
+    {
+        "tempo": 6.3242058753967285,
+        "tipo": "keyUp",
+        "tecla": "i"
+    },
+    {
+        "tempo": 8.54882001876831,
+        "tipo": "keyDown",
+        "tecla": "i"
+    },
+    {
+        "tempo": 8.653540134429932,
+        "tipo": "keyUp",
+        "tecla": "i"
+    },
+    {
+        "tempo": 11.894390344619751,
+        "tipo": "keyDown",
+        "tecla": "i"
+    },
+    {
+        "tempo": 12.02903127670288,
+        "tipo": "keyUp",
+        "tecla": "i"
+    },
+    {
+        "tempo": 19.068697690963745,
+        "tipo": "keyDown",
+        "tecla": "i"
+    },
+    {
+        "tempo": 19.17591643333435,
+        "tipo": "keyUp",
+        "tecla": "i"
+    },
+    {
+        "tempo": 32.164987087249756,
+        "tipo": "keyUp",
+        "tecla": "w"
+    },
+    {
+        "tempo": 34.94011425971985,
+        "tipo": "keyDown",
+        "tecla": "Key.enter"
+    },
+    {
+        "tempo": 34.98051190376282,
+        "tipo": "keyUp",
+        "tecla": "Key.enter"
+    },
+    {
+        "tempo": 36.49357628822327,
+        "tipo": "keyDown",
+        "tecla": "Key.esc"
+    },
+    {
+        "tempo": 36.580344438552856,
+        "tipo": "keyUp",
+        "tecla": "Key.esc"
+    }
+]
